@@ -6,13 +6,13 @@ When the program starts you will be prompted to select an mp4 file as well as a 
 save to prevent any accidental key bindings to fire when using other programs or are in other windows. 
 
 
-Pause               =	'p'
-Unpause		          =	'1' + 'p'
-Remove last pitch	  =	'r'
-Fast forward		    =	‘Ctrl’ (toggle on)
-Normal speed        = 'Ctrl' (toggle off)
-Rewind		          =	Left Arrow Key
-Jump 30 seconds	    =	Right Arrow Key
-Save video		      =	's'
-Record		          =	Spacebar (toggle on)
-Stop Recording	    =	Spacebar (toggle off)
+Pause               =	'p'<br>
+Unpause		          =	'1' + 'p'<br>
+Remove last pitch	  =	'r'<br>
+Fast forward		    =	‘Ctrl’ (toggle on)<br>
+Normal speed        = 'Ctrl' (toggle off)<br>
+Rewind		          =	Left Arrow Key<br>
+Jump 30 seconds	    =	Right Arrow Key<br>
+Save video		      =	's'<br>
+Record		          =	Spacebar (toggle on)<br>
+Stop Recording	    =	Spacebar (toggle off)<br>
