@@ -3,7 +3,7 @@ This script was written to provide a user interface with key bindings only. The 
 video specifically designed for baseball usage in order to complete a full condensed version of a full 9 inning game.
 
 When the program starts you will be prompted to select an mp4 file as well as a directory to save the final video in. The program will pause once you 
-save to prevent any accidental key bindings to fire when using other programs or are in other windows. 
+save to prevent any accidental key bindings to fire when using other programs or are in other windows. Below are the key bindings for this script.
 
 
 Pause               =	'p'<br>
